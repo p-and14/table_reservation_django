@@ -1,0 +1,8 @@
+.venv
+.env.example
+
+*.pyc
+__pycache__
+.pytest_cache
+
+pg_data
