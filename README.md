@@ -27,4 +27,4 @@ ________
 ## Project launch with Docker:
 1. Создать ".env" файл на примере ".env.example".
 2. Запустить команду:
-> docker-compose up -d
+> docker compose up -d
